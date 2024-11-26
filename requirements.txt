@@ -1,0 +1,5 @@
+streamlit
+
+instaloader
+requests
+ffmpeg-python
